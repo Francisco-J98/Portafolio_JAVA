@@ -1,0 +1,5 @@
+Práctica 4: Conjunto de programas con incremento de la dificultad:
+>Menú para gestionar los datos de un coche.
+>Dos números y diversas operaciones.
+>Conversor de Kilogramos a otras medidas de medición de masa.
+>Gestión del almacén de un restaurante.

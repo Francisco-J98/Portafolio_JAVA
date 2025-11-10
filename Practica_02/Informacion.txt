@@ -1,0 +1,8 @@
+Práctica 2: Varios 2:
+>Conversión automática de Celsius a Fahrenheit.
+>Mes del año en base al número introducido por pantalla.
+>Mostrar hasta el número 50 (solamente pares) desde dos números cualesquiera.
+>Saber si un número es par o impar.
+>Resta de números consecutivos.
+>Mostrar mensaje (saludo), en base a la hora del día introducida por teclado.
+>Menú que aglutina los anteriores programas.

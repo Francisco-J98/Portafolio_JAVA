@@ -1,0 +1,9 @@
+Práctica 5: Operaciones Matemáticas I.
+>Menú para gestionar las opciones.
+
+>Geometría básica.
+    >Perímetro (triángulo, cuadrado, hexágono, círculo).
+    >Área (triángulo, cuadrado, hexágono, círculo).
+>Operaciones matemáticas.
+    >Orden de mayor a menor.
+    >Potencias.

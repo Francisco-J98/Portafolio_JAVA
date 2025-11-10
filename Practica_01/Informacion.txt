@@ -1,0 +1,5 @@
+Práctica 1: Varios 1:
+>Calculadora básica.
+>Cálculo de la circunferencia.
+>Introducción a booleanos.
+>Cálculo de tiempo.
