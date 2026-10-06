@@ -1,0 +1,1 @@
+Guarda y realiza diversas operaciones con ficheros sirviéndose del primer párrafo de El Quijote, de Cervantes.

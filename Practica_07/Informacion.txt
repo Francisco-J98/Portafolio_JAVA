@@ -1,0 +1,1 @@
+Batalla entre un mago y un guerrero, aplicando Herencia.
