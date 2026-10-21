@@ -1,0 +1,1 @@
+Multiplicación (dos números), Arquitectura simple: Cliente-Servidor + Hilos (Sockets 1).
