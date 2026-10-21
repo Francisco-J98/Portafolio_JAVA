@@ -1,0 +1,47 @@
+<clases>
+	<clase>
+		<nombreclase>Spinning</nombreclase>
+		<precio>30</precio>
+		<plazas>10</plazas>
+		<hora>18:00</hora>
+		<inscrito>
+			<nombre pagado="si">Sara</nombre>
+			<nombre pagado="si">Luisa</nombre>
+			<nombre pagado="si">Jorge</nombre>
+			<nombre pagado="no">Ruben</nombre>
+			<nombre pagado="si">Marta</nombre>
+		</inscrito>
+	</clase>
+	<clase>
+		<nombreclase>Zumba</nombreclase>
+		<precio>35</precio>
+		<plazas>8</plazas>
+		<hora>19:00</hora>
+		<inscrito>
+			<nombre pagado="si">Sara</nombre>
+			<nombre pagado="no">Luis</nombre>
+			<nombre pagado="si">Raul</nombre>
+			<nombre pagado="si">Andres</nombre>
+			<nombre pagado="si">Pablo</nombre>
+			<nombre pagado="no">Marta</nombre>
+			<nombre pagado="si">Ramon</nombre>
+			<nombre pagado="si">Jose</nombre>
+		</inscrito>
+	</clase>
+	<clase>
+		<nombreclase>Zumba</nombreclase>
+		<precio>40</precio>
+		<plazas>5</plazas>
+		<hora>21:00</hora>
+		<inscrito>
+			<nombre pagado="si">Sara</nombre>
+			<nombre pagado="no">Luis</nombre>
+			<nombre pagado="si">Raul</nombre>
+			<nombre pagado="si">Andres</nombre>
+			<nombre pagado="no">Pablo</nombre>
+			<nombre pagado="no">Marta</nombre>
+			<nombre pagado="si">Ramon</nombre>
+			<nombre pagado="si">Jose</nombre>
+		</inscrito>
+	</clase>
+</clases>
