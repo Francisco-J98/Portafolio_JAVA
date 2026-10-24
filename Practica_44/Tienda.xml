@@ -1,0 +1,17 @@
+<almacen>
+  <ropa>
+    <id>1</id>
+    <talla>5</talla>
+    <color>Verde</color>
+  </ropa>
+  <ropa>
+    <id>1</id>
+    <talla>10</talla>
+    <color>Azul</color>
+  </ropa>
+  <ropa>
+    <id>1</id>
+    <talla>15</talla>
+    <color>Rojo</color>
+  </ropa>
+</almacen>

@@ -1,0 +1,1 @@
+Práctica de operaciones matemáticas por parámetro.
