@@ -1,0 +1,1 @@
+Procesos con Class externos, y su medición de tiempo.
